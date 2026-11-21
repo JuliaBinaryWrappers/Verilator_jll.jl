@@ -1,0 +1,174 @@
+[[Verilator]]
+arch = "aarch64"
+git-tree-sha1 = "4ea0afdb8829551579078a75f3e2f2f069b22c89"
+os = "macos"
+
+    [[Verilator.download]]
+    sha256 = "bfc6560242fc137aba668dca1ffd4ae5f256b984ae989c6bba767237148b47df"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.aarch64-apple-darwin.tar.gz"
+[[Verilator]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5953e4357a0968e7e78272301312177090710d04"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "34b49c3157c95e8615ec3f3506fc56d32cedbfabb6d992e65328927dff92cf41"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Verilator]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "417d42295f9c204f0e99d2910a499ed248c451b8"
+libc = "musl"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "015612d6c5a3ee82a6bef9dfc69255aad53e4ad7beef31d3c672d78eb8103abd"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Verilator]]
+arch = "aarch64"
+git-tree-sha1 = "04d77e66c72b1bed4fc4b69ca44b0a7eb3074685"
+os = "freebsd"
+
+    [[Verilator.download]]
+    sha256 = "8f5b3dedb70aed3553a06d0b1591632f7ebdcf35c62f1b627fcdaf4c1ad7d0d7"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.aarch64-unknown-freebsd.tar.gz"
+[[Verilator]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d981aea443128ed8e2dc28d43ea89cfa71335b7a"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "42a6fbfb5bec0d69482c13ad4979f3f667291e49600664f9d2eac64b2c828e26"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Verilator]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e18cc7fdba5c5e7133761b72dd6a5a057563473b"
+libc = "musl"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "b6caffd33af21c1fef8d450d6004afdf327fb8ff30d301f05be4452242a3cbf5"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Verilator]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e295a71df7c76957093c527c6a59680b63d313a"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "40ecfc03254f561eb77fb0ef0ab60820d0da344591f6e1030008c3a8c43f153b"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Verilator]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bea028e9cfcce725071f83d172b3ce957c37d69e"
+libc = "musl"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "73677526e2338660a0ad5bbb74be9d96c0a5f17c3a34cca35b957640583e6b24"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Verilator]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f8a38004ed58a8ceab8c804ebab3565eacabed58"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "bc027cde37dd0f884390b41124aaf38af2e0600d42978027aa9663e141a9fece"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.i686-linux-gnu-cxx11.tar.gz"
+[[Verilator]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d68fbb12f2993c18efb1566ae3eaae53a7940302"
+libc = "musl"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "d4e66f504e891877f19df9cb83d947fc268c269ec40739238cd48b7a7ab4c18c"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.i686-linux-musl-cxx11.tar.gz"
+[[Verilator]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3ff87c8300e4618249f2fdc547ca0cffe9c166f"
+os = "windows"
+
+    [[Verilator.download]]
+    sha256 = "210f4339f4caef290d7dc87400c438af9a294119f6456b1e134999a4561703af"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Verilator]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3ec2c28220d893a39a36a801b4aacc396feee79"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "574570ed1c0760aed27d23b65cf3d8fa3516a0122fd57f0d4e573618f425228b"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Verilator]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "650a816f1521f6f9b6d3f3e1cf6e4ac972e1f74d"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "aa2ab040c77b34e266064474a9bc4f0b4f632f2c654dfce849999569079c5e14"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Verilator]]
+arch = "x86_64"
+git-tree-sha1 = "e3d14ae804de495fcaceef803edee0e173259a05"
+os = "macos"
+
+    [[Verilator.download]]
+    sha256 = "8a8650a25576d5755c6facb47b8342d9b3f31749b18488f2a508535ef261ace8"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.x86_64-apple-darwin.tar.gz"
+[[Verilator]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c106b85b65ab3f802c7e70ca02c87a638887472b"
+libc = "glibc"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "0059370528d82c513098ce06ece93fa41c6ee1b09ee81bde5dd8ea6e541bca3a"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Verilator]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acbbc90fb7edfa97ba4221f67c8ca1b7acd6947e"
+libc = "musl"
+os = "linux"
+
+    [[Verilator.download]]
+    sha256 = "347faa8d97934d3b7704d9e5a9b3d19d45e3f5c09e06fec6c211e84faab6a95b"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Verilator]]
+arch = "x86_64"
+git-tree-sha1 = "e04c0f78c0fd957d245a44eb113060a00062eb14"
+os = "freebsd"
+
+    [[Verilator.download]]
+    sha256 = "3629ea3468694a536a12cd1538bba71c30f0b526a4c669c66f56396e7fe5b1c4"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.x86_64-unknown-freebsd.tar.gz"
+[[Verilator]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1579d1770dcf92497058e34fc3c340de495d7dc1"
+os = "windows"
+
+    [[Verilator.download]]
+    sha256 = "6658a8e1eaa0e0a4ef32c4f5656b78922e6f2282955dc5408b56923907e160d5"
+    url = "https://github.com/JuliaBinaryWrappers/Verilator_jll.jl/releases/download/Verilator-v5.54.0+0/Verilator.v5.54.0.x86_64-w64-mingw32-cxx11.tar.gz"
